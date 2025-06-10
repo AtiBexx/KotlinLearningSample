@@ -1,0 +1,27 @@
+
+
+---
+
+### IntelliJ IDEA gyorsbillentyűk (Windows/Linux)
+
+| Gyorsbillentyű       | Mit csinál?                                              |
+| -------------------- | -------------------------------------------------------- |
+| **Shift + F6**       | Átnevezés (Refactor → Rename)                            |
+| **Ctrl + Space**     | Alapvető kódkiegészítés (Basic Code Completion)          |
+| **Ctrl + Shift + P** | Aktuális kifejezés/típus megjelenítése (Expression Type) |
+| **Ctrl + P**         | Paraméter javaslatok megjelenítése metódushíváskor       |
+
+---
+
+### IntelliJ IDEA gyorsbillentyűk (Mac)
+
+| Gyorsbillentyű      | Mit csinál?                                              |
+| ------------------- | -------------------------------------------------------- |
+| **Shift + F6**      | Átnevezés (Refactor → Rename)                            |
+| **Cmd + Space**     | Alapvető kódkiegészítés (Basic Code Completion)          |
+| **Cmd + Shift + P** | Aktuális kifejezés/típus megjelenítése (Expression Type) |
+| **Cmd + P**         | Paraméter javaslatok megjelenítése metódushíváskor       |
+
+---
+
+Ha szeretnéd, tudok még többet is küldeni, például hibakeresési, navigációs vagy refaktorálási gyorsbillentyűket!
